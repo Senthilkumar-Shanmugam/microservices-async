@@ -48,6 +48,11 @@
 			<artifactId>spring-cloud-stream-test-support</artifactId>
 			<scope>test</scope>
 		</dependency>
+		<dependency>
+			<groupId>own.learn.microservice</groupId>
+			<artifactId>messaging-common</artifactId>
+			<version>${project.version}</version>
+		</dependency>
 	</dependencies>
 
 	
